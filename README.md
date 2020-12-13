@@ -1,2 +1,2 @@
-# Arduino-IDE
+# Home Automation
 DIYs using arduino UNO
